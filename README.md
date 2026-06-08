@@ -15,8 +15,7 @@
 - Actively seeking to build a strong network of like-minded individuals.
 
 * How to reach me:
-- YouTube Channel:.*Asteralate.*
-- Instagram:[@aster_alate](https://instagram.com/aster_alate)
+
 
 Feel free to [visit my profile](https://github.com/safa-VA) to learn more about my projects.
 
